@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+//fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~select2/dist/css/select2.css";
+@import 'jquery-ui';
+@import '~mdb-ui-kit/css/mdb.min.css';
+// Variables
+@import 'variables';
+// Auth
+@import 'auth/login';
+
+//user
+
+@import 'header';
+@import 'home';
+@import 'tour';
+
+@media (min-width: 1400px) {
+    .container-sm {
+        max-width: 1140px;
+    }
+}
+
+@import 'footer';

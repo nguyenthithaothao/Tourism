@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/images/footer.png": "/images/footer.png",
+    "/images/hoian.jpg": "/images/hoian.jpg",
+    "/images/hue.jpg": "/images/hue.jpg",
+    "/images/login-bg.jpg": "/images/login-bg.jpg",
+    "/images/logo.png": "/images/logo.png",
+    "/images/nt.jpg": "/images/nt.jpg",
+    "/images/register-bg.jpg": "/images/register-bg.jpg",
+    "/images/reset-bg.jpg": "/images/reset-bg.jpg",
+    "/images/vn.png": "/images/vn.png",
+    "/fonts/utm_bryantlg-webfont.woff": "/fonts/utm_bryantlg-webfont.woff",
+    "/fonts/utm_bryantlg-webfont.woff2": "/fonts/utm_bryantlg-webfont.woff2",
+    "/fonts/UTM_BryantLG.ttf": "/fonts/UTM_BryantLG.ttf",
+    "/fonts/UTM_BryantLG_B.ttf": "/fonts/UTM_BryantLG_B.ttf"
+}
